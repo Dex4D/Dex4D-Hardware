@@ -1,6 +1,8 @@
 # Dex4D-Hardware
 
-**[Coming Soon]** This is the codebase for the hardware deployment part of the Dex4D project.
+**[Coming Soon]** This is the codebase for the hardware deployment of our paper [Dex4D](https://arxiv.org/abs/2602.15828).
+
+**[`[Paper]`](https://arxiv.org/abs/2602.15828) [`[Project Page]`](https://dex4d.github.io/) [`[Code (Simulation)]`](https://github.com/Dex4D/Dex4D-Simulation) [`[Code (Vision)]`](https://github.com/Dex4D/Dex4D-Vision)**
 
 
 https://github.com/user-attachments/assets/34bd5906-a48b-4e86-ae63-64232a55dd97
